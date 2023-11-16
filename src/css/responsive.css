@@ -1,0 +1,9 @@
+@media (max-width: 375px){
+   .container{
+    margin: 8px;
+    max-width: 310px ;
+   }
+   .informacoes{
+    max-width: 310px;
+}
+}
